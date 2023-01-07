@@ -5,4 +5,4 @@
 * Simply add a reference to the FortniteVersionFinder dll and call Finder.GetVersion(clientpath).
 
 # How can I use this manually?
-* There is a project named FortniteVersionFinder.App that builds to a console app for manual use. Build that project,  however this is not needed. Simply add a reference to the FortniteVersionFinder dll and call Finder.GetVersion(clientpath).
+* There is a project named FortniteVersionFinder.App that builds to a console app for manual use. Build that project, then run it.
